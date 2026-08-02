@@ -1,6 +1,5 @@
 # AI Portfolio Projects
 
-Professional portfolio repository for two AI internship projects completed in Python.
 
 ## Repository Overview
 
