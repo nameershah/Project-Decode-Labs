@@ -1,6 +1,3 @@
-# AI Portfolio Projects
-
-
 ## Repository Overview
 
 This repository contains:
