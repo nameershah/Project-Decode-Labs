@@ -1,4 +1,4 @@
-# Project Decode Labs
+# AI Portfolio Projects
 
 Professional portfolio repository for two AI internship projects completed in Python.
 
@@ -12,7 +12,7 @@ This repository contains:
 ## Project Structure
 
 ```text
-Project-Decode-Labs/
+AI-Portfolio-Projects/
 ├── Project-1/
 │   ├── chatbot.py
 │   └── README.md
